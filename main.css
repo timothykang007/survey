@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	width: 430px;
+	height: 300px;
+	margin: 25px auto;
+	border: 1px solid black;
+}
+
+form {
+	padding: 15px;
+}
+
+label {
+	width: 130px;
+	display: inline-block;
+}
+
+select {
+	width: 134px;
+}
+
+#comment-label{
+	display: block;
+}
+
+#comments {
+	height: 100px;
+	width: 400px;
+}
+
+div#submit-button {
+	padding-top: 10px;
+	text-align: right;
+}
